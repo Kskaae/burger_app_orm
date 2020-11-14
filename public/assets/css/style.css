@@ -17,3 +17,13 @@ li {
 .form-group {
   margin-bottom: 5px;
 }
+.row {
+margin-bottom: 50px;
+}
+.col{
+margin-right:  20px;
+
+}
+.submit {
+  margin-right: 50px;
+}
